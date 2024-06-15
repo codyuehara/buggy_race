@@ -2,4 +2,4 @@
 
 Dependencies:
   - pygame
-  - gym
+  - stable-baselines3
